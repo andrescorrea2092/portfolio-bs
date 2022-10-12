@@ -1,0 +1,67 @@
+/* Header Navbar */
+
+/* Main */
+main {
+    min-height: 90vh;
+}
+
+/* Footer */
+footer {
+    width: 100vw;
+    height: 40vh;
+    background-color: var(--bs-dark);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+footer .copy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+footer{
+    width: 100vw;
+    height: 55vh;
+    background-color: var(--bs-dark);
+    color: #ffff;
+    flex-direction: column;
+    justify-content: flex-end;
+    
+}
+
+footer .copy{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.fa-facebook{
+    color: #1877f2;
+   font-size: 75px;
+   
+}
+
+
+.fa-square-twitter{
+   color:rgb(29, 155, 240);
+   font-size: 75px;
+}
+
+.fa-linkedin{
+    color: #2977c9;
+    font-size: 75px;
+}
+
+/*iconos */ 
+.fa-solid {
+    padding-right: 10px;
+}
